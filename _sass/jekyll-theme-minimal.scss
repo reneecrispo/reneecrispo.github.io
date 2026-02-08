@@ -3,6 +3,7 @@
 
 body {
   background-color: #fff;
+  margin:0;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
@@ -133,6 +134,36 @@ header p:not(.view) {
   font-size:16px;
 }
 
+.top-bar {
+  background:#e6e6e6;
+  margin:-50px -50px 30px;
+  padding:12px 50px;
+}
+
+.site-nav {
+  margin:0;
+}
+
+.site-nav ul {
+  list-style:none;
+  padding:0;
+  margin:0;
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px 12px;
+  justify-content:center;
+}
+
+.site-nav a {
+  display:inline-block;
+  font-size:13px;
+  color:#2f2f2f;
+}
+
+.site-nav a:hover, .site-nav a:focus {
+  color:#0a2d6b;
+}
+
 kbd {
   background-color: #fafbfc;
   border: 1px solid #c6cbd1;
@@ -153,6 +184,7 @@ header {
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
   text-align:center;
+  margin-top:20px;
 }
 
 ul.downloads {
@@ -259,6 +291,7 @@ strong {
 section {
   width:500px;
   float:right;
+  margin-top:20px;
   padding-bottom:50px;
 }
 
