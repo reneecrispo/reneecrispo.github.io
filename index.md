@@ -1,5 +1,6 @@
 ---
 layout: default
+page_class: about-page
 ---
 
 # About me

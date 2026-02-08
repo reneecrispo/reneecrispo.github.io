@@ -1,6 +1,7 @@
 ---
 layout: default
 title: CV
+page_class: cv-page
 ---
 
 # Curriculum Vitae
