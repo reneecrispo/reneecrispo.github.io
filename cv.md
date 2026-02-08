@@ -5,4 +5,4 @@ title: CV
 
 # CV
 
-Add your CV content here.
+You can download the latest version of my [CV](/assets/cvCrispo.pdf). 
