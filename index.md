@@ -10,6 +10,8 @@ I am a 1st year PhD student at [INRIA, Paris](https://www.inria.fr/fr) and a mem
 ## Contact Information
 Centre Inria Paris, Office B404
 
+Email : renee.crispo@inria.fr
+
 ## Research Intrests
 <div class="interests">
   <div class="interest">
