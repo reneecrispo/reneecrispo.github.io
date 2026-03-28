@@ -25,7 +25,7 @@ Email : renee.crispo@inria.fr
     <div class="label">Fluid-Structure Interaction</div>
   </div>
   <div class="interest">
-    <img src="/assets/img/cardiac-model.png" alt="Interest 2" />
+    <img src="/assets/img/cardiac-modelling.png" alt="Interest 2" />
     <div class="label">Cardiac Modelling</div>
   </div>
 </div>
