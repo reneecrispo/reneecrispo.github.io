@@ -57,6 +57,19 @@ h3, h4, h5, h6 {
 
 .cv-page h1 {
   color:#0a2d6b;
+  margin-bottom:32px;
+}
+
+.publications-page h1 {
+  color:#0a2d6b;
+}
+
+.talks-page h1 {
+  color:#0a2d6b;
+}
+
+.teaching-page h1 {
+  color:#0a2d6b;
 }
 
 .cv-page h2 {
@@ -85,7 +98,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:1000px;
+  width:min(1150px, calc(100% - 40px));
   margin:0 auto;
 }
 
@@ -336,7 +349,7 @@ strong {
 }
 
 section {
-  width:600px;
+  width:calc(100% - 350px);
   float:right;
   margin-top:20px;
   padding-bottom:50px;
@@ -441,15 +454,14 @@ footer {
 // Interests section with pictures and labels 
 
 .interests {
-  display:flex;
-  gap:16px;
-  flex-wrap:wrap;
-  justify-content:center;
+  display:grid;
+  grid-template-columns:repeat(3, minmax(0, 1fr));
+  gap:12px;
 }
 
 .interest {
   text-align:center;
-  width:220px;
+  width:auto;
 }
 
 .interest img {

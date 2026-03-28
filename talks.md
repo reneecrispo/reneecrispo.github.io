@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Talks
+page_class: talks-page
 ---
 
 # Talks
 
-Add your talks here.
+This page will include invited talks, seminars, and conference presentations.

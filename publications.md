@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Publications
+page_class: publications-page
 ---
 
 # Publications
 
-Add your publications here.
+Future publications will be listed here.
