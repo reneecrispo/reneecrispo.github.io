@@ -83,7 +83,9 @@ a {
 
 a:hover, a:focus {
   color:#069;
-  font-weight: bold;
+  font-weight:inherit;
+  text-decoration:underline;
+  text-underline-offset:2px;
 }
 
 a small {
@@ -325,7 +327,7 @@ ul.social-links {
 
 .downloads a:hover, .downloads a:focus {
   color:#675C5C;
-  font-weight:bold;
+  font-weight:inherit;
 }
 
 .downloads ul a:active {
